@@ -1,6 +1,6 @@
 # eyemovement_identification
 
-Pytorch
+Pytorch version
 
 [Quick run]
 
