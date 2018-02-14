@@ -14,13 +14,16 @@ Train : W1S1, W1S2, W2S1, W2S2, W3S1
 
 Valid : W3S2
 
+
 [Model]
 
 {LSTM-RNN}*2- {FC}*2
 
+
 [Tendency]
 
 Loss does not decrease
+
 
 [TODO]
 
