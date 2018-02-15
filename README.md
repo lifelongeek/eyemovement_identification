@@ -29,4 +29,5 @@ Loss does not decrease
 
 1. measure class accuracy
 2. modify architecture
-
+3. make test set
+4. make test.py
